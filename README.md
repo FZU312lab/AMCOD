@@ -25,7 +25,7 @@ AMCOD provides **86 high-quality NECT scans** with voxel-level annotations to br
 
 To ensure high-quality benchmarks, AMCOD follows a rigorous data curation pipeline, from cohort selection to final evaluation.
 
-![Workflow](./figure/pic1.jpg)
+![Workflow](./figures/pic1.jpg)
 
 
 Fig. 1 Overview of the AMCOD dataset construction workflow.
@@ -43,7 +43,7 @@ The pipeline consists of four key stages:
 
 AMCOD provides fine-grained, voxel-level annotations that explicitly capture the pathological topology of colorectal obstruction.
 
-![Visualization](./figure/pic2.jpg)
+![Visualization](./figures/pic2.jpg)
 
 
 
