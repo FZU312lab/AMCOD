@@ -2,22 +2,23 @@
 
 [**Paper**](LINK_TO_PAPER) | [**Dataset**](LINK_TO_DATASET) | [**BibTeX**](#citation)
 
-**AMCOD** is the first NECT dataset specifically curated for the segmentation of colorectal obstruction in emergency scenarios. Unlike existing benchmarks that focus on elective surgery or normal anatomy, AMCOD addresses the critical domain shift caused by emergency pathology.
+**AMCOD** is the first NECT dataset specifically curated for the segmentation of colorectal obstruction in emergency scenarios.
+
+## 🔐 Data Access (数据访问)
+The full AMCOD dataset will be open-sourced upon paper acceptance. 
+
+**For Reviewers / Early Research Access:**
+If you require access to the dataset for reproduction or review purposes before the official release, please contact the corresponding author via email: `[your_email@example.com]`. Please include your institution and the purpose of usage in the request.
 
 ## 🔥 Why AMCOD?
 
-Current segmentation models fail in emergency settings due to the **"Visual Gap"**:
+While current public datasets have advanced the field of medical segmentation, they are primarily optimized for normal anatomy or tumor detection in contrast-enhanced images.
 
-1. **Modality Shift:** Routine datasets use Contrast-Enhanced CT (CECT), while emergencies rely on **Non-Contrast CT (NECT)**.
-2. **Morphological Shift:** Normal intestines are tubular, while obstructed ones exhibit **Extreme Dilation** (proximal) and **Complete Collapse** (distal).
+AMCOD aims to extend these capabilities to **emergency settings** by providing data that reflects real-world clinical constraints:
+* **Modality:** Non-Enhanced CT (NECT) without bowel preparation.
+* **Pathology:** Complex topological changes induced by acute obstruction (e.g., extreme dilation and collapse).
 
-AMCOD provides **86 high-quality NECT scans** with voxel-level annotations to bridge this gap, serving as a robust benchmark for **Topological Continuity** and **Low-Contrast Segmentation**.
-
-## 🚀 Dataset Highlights
-
-- **Real-world Emergency Data:** Collected from a 10-year clinical cohort.
-- **Pathological Topology:** Explicitly captures the transition from dilated to collapsed segments.
-- **Challenging Benchmarks:** Targets the "Corner Cases" of medical segmentation (collapsed lumen, adhesions).
+This dataset offers a resource for developing algorithms that are robust to low-contrast images and severe anatomical deformations.
 
 
 
@@ -48,11 +49,10 @@ AMCOD provides fine-grained, voxel-level annotations that explicitly capture the
 
 
 
-
 **Legend:**
 
-- 🟢 **Proximal Segment (Green):** Characterized by extreme **dilation** and fluid/gas accumulation.
-- 🔴 **Obstructed Segment (Red):** The transition zone (tumor site), usually showing irregular wall thickening.
+- 🟢 **Proximal Segment (Green):** Characterized by extreme **dilation** and Fluid-gas retention.
+- 🔴 **Obstructed Segment (Red):Identified as the **transition zone** (tumor site), usually showing irregular wall thickening.
 - 🔵 **Distal Segment (Blue):** Characterized by complete **collapse** and narrow lumen due to the obstruction.
 
 (a)-(c) Representative 2D slices in axial, coronal, and sagittal views, respectively. (d)-(f) 3D surface renderings illustrating pathological variations: (d) typical pathological dilation of the proximal colon; (e) concurrent massive dilation with spatial anomalies; and (f) an extreme case exhibiting highly tortuous morphology and severe deviation from normal anatomy.
