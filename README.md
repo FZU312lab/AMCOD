@@ -1,4 +1,3 @@
-# AMCOD
 # AMCOD: Acute Malignant Colorectal Obstruction Dataset
 
 [**Paper**](LINK_TO_PAPER) | [**Dataset**](LINK_TO_DATASET) | [**BibTeX**](#citation)
@@ -26,7 +25,8 @@ AMCOD provides **86 high-quality NECT scans** with voxel-level annotations to br
 
 To ensure high-quality benchmarks, AMCOD follows a rigorous data curation pipeline, from cohort selection to final evaluation.
 
-![数据建立流程图_画板 1](E:\desktop\实验展示图\数据建立流程图_画板 1.jpg)
+<img width="1108" height="387" alt="image" src="https://github.com/user-attachments/assets/ca7c6158-6787-4212-9c29-7591b3a4d4fc" />
+
 
 Fig. 1 Overview of the AMCOD dataset construction workflow.
 
