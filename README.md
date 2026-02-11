@@ -43,7 +43,8 @@ The pipeline consists of four key stages:
 
 AMCOD provides fine-grained, voxel-level annotations that explicitly capture the pathological topology of colorectal obstruction.
 
-![1770810108991](C:\Users\1\AppData\Roaming\Typora\typora-user-images\1770810108991.png)
+<img width="1083" height="870" alt="image" src="https://github.com/user-attachments/assets/ded575ae-99a9-4b0c-b4bd-9c181e7ff10f" />
+
 
 
 
