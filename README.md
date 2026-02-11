@@ -55,7 +55,7 @@ AMCOD provides fine-grained, voxel-level annotations that explicitly capture the
 - 🔴 **Obstructed Segment (Red):** The transition zone (tumor site), usually showing irregular wall thickening.
 - 🔵 **Distal Segment (Blue):** Characterized by complete **collapse** and narrow lumen due to the obstruction.
 
-As shown in the 3D reconstructions (d-f), the dataset captures the drastic morphological contrast between the dilated proximal colon and the collapsed distal colon, posing a significant challenge for topological consistency in segmentation models.
+(a)-(c) Representative 2D slices in axial, coronal, and sagittal views, respectively. (d)-(f) 3D surface renderings illustrating pathological variations: (d) typical pathological dilation of the proximal colon; (e) concurrent massive dilation with spatial anomalies; and (f) an extreme case exhibiting highly tortuous morphology and severe deviation from normal anatomy.
 
 ## 📜 Citation
 
