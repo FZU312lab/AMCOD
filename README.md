@@ -8,7 +8,7 @@
 The full AMCOD dataset will be open-sourced upon paper acceptance. 
 
 **For Reviewers / Early Research Access:**
-If you require access to the dataset for reproduction or review purposes before the official release, please contact the corresponding author via email: `[your_email@example.com]`. Please include your institution and the purpose of usage in the request.
+If you require access to the dataset for reproduction or review purposes before the official release, please contact the corresponding author via email: `[fzulab312ai@gmail.com]`. Please include your institution and the purpose of usage in the request.
 
 ## 🔥 Why AMCOD?
 
