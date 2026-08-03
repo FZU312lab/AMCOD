@@ -1,0 +1,17 @@
+{
+    "name": "数据集名称",
+    "description": "关于什么的，非必须",
+    "reference": "从哪来的，非必须",
+    "licence": "CC-BY-SA 4.0，非必须",
+    "relase": "1.0 04/05/2018，数据集生成的时间，非必须",
+    "tensorImageSize": "3D",
+    "labels": {
+        "0":"background",
+        "1":"Anterior",
+        "2":"Posterior"
+    },
+    "numTraining": 260,
+    "modality": {
+        "0": "CT"
+    }
+}
