@@ -1,13 +1,13 @@
 # AMCOD: Acute Malignant Colorectal Obstruction Dataset
 
-[**Paper**](LINK_TO_PAPER) | [**Dataset**](LINK_TO_DATASET) | [**BibTeX**](#citation)
+[**Paper**](LINK_TO_PAPER) | [**Dataset**]([LINK_TO_DATASET](https://drive.google.com/file/d/1oUnMX_BgvJFgl0_HCk93iCScXS6wvQNH/view?usp=sharing)) | [**BibTeX**](#citation)
 
 **AMCOD** is the first NECT dataset specifically curated for the segmentation of colorectal obstruction in emergency scenarios.
 
 ## 🔐 Data Access (数据访问)
 The full AMCOD dataset is now publicly available for research use via Google Drive.
 Dataset Download: 
-
+https://drive.google.com/file/d/1oUnMX_BgvJFgl0_HCk93iCScXS6wvQNH/view?usp=sharing
 For questions regarding the dataset or data access, please contact the corresponding author via email: fzulab312ai@gmail.com.
 
 ## 🔥 Why AMCOD?
