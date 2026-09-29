@@ -5,10 +5,10 @@
 **AMCOD** is the first NECT dataset specifically curated for the segmentation of colorectal obstruction in emergency scenarios.
 
 ## 🔐 Data Access (数据访问)
-The full AMCOD dataset will be open-sourced upon paper acceptance. 
+The full AMCOD dataset is now publicly available for research use via Google Drive.
+Dataset Download: 
 
-**For Reviewers / Early Research Access:**
-If you require access to the dataset for reproduction or review purposes before the official release, please contact the corresponding author via email: `[fzulab312ai@gmail.com]`. Please include your institution and the purpose of usage in the request.
+For questions regarding the dataset or data access, please contact the corresponding author via email: fzulab312ai@gmail.com.
 
 ## 🔥 Why AMCOD?
 
