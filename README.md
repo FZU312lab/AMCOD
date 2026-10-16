@@ -57,6 +57,8 @@ AMCOD provides fine-grained, voxel-level annotations that explicitly capture the
 
 (a)-(c) Representative 2D slices in axial, coronal, and sagittal views, respectively. (d)-(f) 3D surface renderings illustrating pathological variations: (d) typical pathological dilation of the proximal colon; (e) concurrent massive dilation with spatial anomalies; and (f) an extreme case exhibiting highly tortuous morphology and severe deviation from normal anatomy.
 
+
+<a id="bibtex"></a>
 ## 📜 Citation
 
 Please cite our work if you use this dataset:
@@ -67,7 +69,6 @@ Please cite our work if you use this dataset:
   title={AMCOD: Acute Malignant Colorectal Obstruction Dataset},
   author={Huang Y and Chen S and Zhang J and others},
   journal={Computer Methods and Programs in Biomedicine},
-  volume={},
   pages={109673},
   year={2026}
 }
