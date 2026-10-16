@@ -67,11 +67,11 @@ Please cite our work if you use this dataset:
 
 @article{huang2026amcod,
   title={AMCOD: Acute Malignant Colorectal Obstruction Dataset},
-  author={Huang Y and Chen S and Zhang J and others},
+  author={Huang, Yan and Chen, Shu and Zhang, Junrong and Chen, Shuai and Huang, Liqin and Chen, Xianqiang},
   journal={Computer Methods and Programs in Biomedicine},
   pages={109673},
-  year={2026}
+  year={2026},
+  publisher={Elsevier}
 }
-
 
 ```
